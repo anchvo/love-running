@@ -27,7 +27,7 @@ h3 {
     color: #252525;
 }
 
-/* Generic class style for hiding headings */
+/* Utility class style for hiding headings */
 .hidden-heading {
     display: none;
 }
